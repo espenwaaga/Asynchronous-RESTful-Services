@@ -1,4 +1,4 @@
-package no.espenwaaga;
+package no.espenwaaga.tjenester;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
